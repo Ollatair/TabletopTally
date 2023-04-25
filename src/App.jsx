@@ -3,6 +3,8 @@ import Navbar from './components/Navbar';
 import Home from './components/Home';
 import GameList from './components/GameList';
 import UserStats from './components/UserStats';
+import DataHandler from './components/DataHandler';
+import Database from './components/localStorageDatabase';
 
 
 function App() {

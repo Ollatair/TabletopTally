@@ -5,8 +5,7 @@ const Navbar = ({ onPageChange }) => {
   const pages = [
     { label: 'Home', value: 'home' },
     { label: 'Games', value: 'gameList' },
-    { label: 'User Stats', value: 'userStats' }, 
-    { label: 'Game Result Form', value: 'gameResultForm' },
+    { label: 'User Stats', value: 'userStats' },  
   ];
 
   return (
